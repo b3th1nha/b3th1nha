@@ -1,7 +1,7 @@
 ### Hi there.
     Oi galera, cheguei! 👋
 
-Sou meu nome é Elizabeth, mas gosto de ser chamada de Bethinha.
+Meu nome é Elizabeth, mas gosto de ser chamada de Bethinha.
 
 - 🌱 Atualmente estou estudando pela Plataforma Alura e Rocketseat.
 - 📫 @bethinha.cris
